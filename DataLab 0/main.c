@@ -42,7 +42,7 @@ int Funct(arg1, arg2, ...) {
     int var1 = Expr1;
     ...
     int varM = ExprM;
-    
+
     varJ = ExprJ;
     ...
     varN = ExprN;
@@ -163,8 +163,8 @@ int ezThreeFourths(int x)
     int div = num >> 2;
     printf("Div gives you: %d\n", div);
     return div;
-    
-    
+
+
     /*int div1 = (mult >> 31);
     if (div1 == -1)
     {
